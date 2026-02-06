@@ -1,5 +1,5 @@
 ## 🎵 Music Mixer Project – Checkpoint
-This is a team-based multimedia web project where users can create custom music mixes by dragging and dropping audio elements onto characters. Inspired by applications such as Incredibox, the project combines sound, interaction, and visual feedback to create an engaging audio experience.
+This is a team-based project where users can create custom music mixer by dragging and dropping audio elements onto characters. The project combines sound, interaction, and visual feedback to create an engaging audio experience.
 
 This repository represents the checkpoint stage of the project, focusing on setup, planning, research, and early implementation.
 
