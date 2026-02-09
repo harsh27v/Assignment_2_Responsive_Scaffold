@@ -5,6 +5,7 @@ This repository represents the checkpoint stage of the project, focusing on setu
 No installation required, simply download the zip file and extract.
 
 ## Usage
+Open the images folder to view the SVG assets and wireframes used for the mixer layout and characters.
 
 ## Contributing 
 1. Fork it!
